@@ -2,3 +2,4 @@ Mesa hecha en Un archivo .sdf (Simulation Description Format) se utiliza en Gaze
 Realizado por:
 López Jaramillo Sebastián
 Gatica Lavin Luis Pedro
+Valenzo Batalla Alejandro 
