@@ -15,13 +15,13 @@ Desarrollar e implementar un banco de pruebas virtual y físico de un robot Scor
 ## Desarrollo
 
 - [ ] Banco de Prubas físico
-    - [ ]   Configuración completa del robot
-    - [ ]   Reproducción del entorno físico del robot
+    - [ x]   Configuración completa del robot
+    - [ x]   Reproducción del entorno físico del robot
     - [ ]   Implementación del entorno de simulación del robot
-- [ ] Banco de pruebas virtual
-    - [ ] Configuración completa del robot.
-    - [ ] Reproducción del entorno físico del robot.
-    - [ ] Implementación del entorno de simulación del robot
+- [X ] Banco de pruebas virtual
+    - [ X] Configuración completa del robot.
+    - [ X] Reproducción del entorno físico del robot.
+    - [X ] Implementación del entorno de simulación del robot
 	
 
 ## Equipo semestre 2025-1
